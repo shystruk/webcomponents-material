@@ -1,2 +1,2 @@
-# material.webcomponents.github.io
+# Web components Material #
 Library of reusable Custom elements 
